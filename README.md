@@ -7,4 +7,4 @@ Based on a new experimental drug test on 2100 participants both young and old si
 model works on the priciple to check if the experimental drug is of good accuracy.
 
 
-<img width="120" alt="Picture4" src="https://user-images.githubusercontent.com/75105149/153314457-34b9a2f3-650d-4303-af41-55e35933ef2e.png">
+<img width="500" alt="Picture4" src="https://user-images.githubusercontent.com/75105149/153314457-34b9a2f3-650d-4303-af41-55e35933ef2e.png">
